@@ -43,7 +43,7 @@ doctor-appointment-system/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/B14ee2004nish/doctor-appointment-system.git
+git clone https://github.com/zubiadamaryam/doctor-appointment-system.git
 ```
 
 2. Go to the project folder:
@@ -78,8 +78,8 @@ http://127.0.0.1:5000
 - Appointment reminders
 - Patient medical history
 
-## Author
 
-**Beenish Fatima**
+Author
+Zubia Maryam
 
-GitHub: https://github.com/B14ee2004nish
+GitHub: https://github.com/zubiadamaryam
